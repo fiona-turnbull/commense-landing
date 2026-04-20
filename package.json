@@ -1,0 +1,13 @@
+{
+  "name": "commense-landing",
+  "version": "1.0.0",
+  "description": "Commense landing page with Vercel Web Analytics",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {}
+}
